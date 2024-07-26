@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tommy Feeley. I'm a computer science senior at Rutgers University seeking employment after graduating May 2024!
+- 👋 Hi, I’m Tommy Feeley. I graduated from Rutgers in May majoring in computer science. Interested in softare engineering, data analyst, or AI engineer positions.
 - 📫 How to reach me Twitter @TommyFeeley, discord tommyfeel, feeleytommy@gmail.com
 
 <!---
