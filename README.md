@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tommy Feeley. Masters Computer Science Student At NJIT, graduating in May 2026. Interested in software engineering, data analyst, or AI engineer positions.
+- 👋 Hi, I’m Tommy Feeley. Masters Computer Science Student At NJIT, graduating in the summer of 2026. Interested in software engineering, data analyst, or AI engineer positions.
 - 📫 How to reach me Twitter @TommyFeeley, discord tommyfeel, feeleytommy@gmail.com
 
 <!---
